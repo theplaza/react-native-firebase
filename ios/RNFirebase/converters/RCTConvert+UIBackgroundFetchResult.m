@@ -5,9 +5,9 @@
 RCT_ENUM_CONVERTER(
     UIBackgroundFetchResult,
     (@{
-        @"backgroundFetchResultNoData" : @(UIBackgroundFetchResultNoData),
-        @"backgroundFetchResultNewData" : @(UIBackgroundFetchResultNewData),
-        @"backgroundFetchResultFailed" : @(UIBackgroundFetchResultFailed)}
+        @"UIBackgroundFetchResultNoData" : @(UIBackgroundFetchResultNoData),
+        @"UIBackgroundFetchResultNewData" : @(UIBackgroundFetchResultNewData),
+        @"UIBackgroundFetchResultFailed" : @(UIBackgroundFetchResultFailed)}
     ),
     UIBackgroundFetchResultNoData,
     integerValue
